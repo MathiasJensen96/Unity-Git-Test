@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Unity Editor version:    2020.3.27f1 (e759542391ea)
 Branch:                  2020.3/release
 Build type:              Release
@@ -2888,3 +2889,5 @@ Received Import Request.
 Start importing Assets/Forest Pack/Materials/Color0028.mat using Guid(c0477bbd7e9ccd041bc750753b1339bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b3aea394ea2f62b883fba8357fc41e5') in 0.007914 seconds 
   Import took 0.010198 seconds .
 
+=======
+>>>>>>> 7cb78ac732f241d29323bc2477c06087f46004af
