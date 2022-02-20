@@ -230,3 +230,796 @@ Received Import Request.
 Start importing Assets/NewBrush.brush using Guid(dcfe0159671cd46dbba2ec6909a6c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37cb007bf6342349d214e0d64f01bdc6') in 0.450724 seconds 
   Import took 0.456668 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 495.296405 seconds.
+  path: Assets/Resources/PreFabs/New Folder
+  artifactKey: Guid(7de6a22886dd8449a9b00c285f534251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/PreFabs/New Folder using Guid(7de6a22886dd8449a9b00c285f534251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62513f9cd9534d1c61f86357e337907d') in 0.002190 seconds 
+  Import took 0.007515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.897597 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(a9def8ca53785428890064d5e68035d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(a9def8ca53785428890064d5e68035d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f170b2dbbb07fdd5ddc2df0248db8e6') in 0.031538 seconds 
+  Import took 0.035672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.532816 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksGrass/pref_TrackGrassCrossing_01.prefab
+  artifactKey: Guid(9141dfbab7e97e440958b760d21507bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksGrass/pref_TrackGrassCrossing_01.prefab using Guid(9141dfbab7e97e440958b760d21507bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a106d2623fdac75d73433f713f9462aa') in 0.306437 seconds 
+  Import took 0.312038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.837433 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksGrass
+  artifactKey: Guid(ef4a0d25e23ac4ef1b648116edc20932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksGrass using Guid(ef4a0d25e23ac4ef1b648116edc20932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c95a6239c4714ca70da2f338d27c4df6') in 0.002117 seconds 
+  Import took 0.006075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.497318 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCrossing_01.prefab
+  artifactKey: Guid(6174f3914a458ff4399a58bade09f7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCrossing_01.prefab using Guid(6174f3914a458ff4399a58bade09f7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e4b17caf9010cc5c7d68a25f25cd1e') in 0.020202 seconds 
+  Import took 0.026942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.796291 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachStart.prefab
+  artifactKey: Guid(21094b9cebe2a8f4fa642a7d5900d44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachStart.prefab using Guid(21094b9cebe2a8f4fa642a7d5900d44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82bf1c06a9867e893d0cc9b94b15d9cd') in 0.021088 seconds 
+  Import took 0.029521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.799945 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_04.prefab
+  artifactKey: Guid(f446515e3414a034d8ee395547d3fc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_04.prefab using Guid(f446515e3414a034d8ee395547d3fc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6bec72be7f677d91727ecd19214eb4c') in 0.033118 seconds 
+  Import took 0.036745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.081626 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachStraight_03.prefab
+  artifactKey: Guid(e6f815ee2c0454c439ff7e1e7c1ba5f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachStraight_03.prefab using Guid(e6f815ee2c0454c439ff7e1e7c1ba5f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ddafdee673f578d9dc68dfc485fe7f') in 0.016690 seconds 
+  Import took 0.024596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.259008 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachStraight_01.prefab
+  artifactKey: Guid(64e7de77d4a5fcd4db7d205216da76d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachStraight_01.prefab using Guid(64e7de77d4a5fcd4db7d205216da76d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212bca52e965da1c0b51087ef040f854') in 0.022183 seconds 
+  Import took 0.032116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.646772 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_12.prefab
+  artifactKey: Guid(8bd94e556e1545140b63893a52054e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_12.prefab using Guid(8bd94e556e1545140b63893a52054e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c49ac73723e5ff563377fe6345cb1d') in 0.041723 seconds 
+  Import took 0.050022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.059075 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachRamp_03.prefab
+  artifactKey: Guid(80e90ce47645afc468f9d46ee4f74149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachRamp_03.prefab using Guid(80e90ce47645afc468f9d46ee4f74149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f17a1b2609fb5759e3c399e232ffa47') in 0.021816 seconds 
+  Import took 0.033693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.439429 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachRamp_02.prefab
+  artifactKey: Guid(24557c814b0157a4b8716b23d29ea34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachRamp_02.prefab using Guid(24557c814b0157a4b8716b23d29ea34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a19323fbc591682f26d51dc41ff0576') in 0.015371 seconds 
+  Import took 0.021585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.525664 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachRamp_01.prefab
+  artifactKey: Guid(b07be4e008038664d96662b73a07a6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachRamp_01.prefab using Guid(b07be4e008038664d96662b73a07a6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c4d50360cae8f09f7feab56438ea1e') in 0.015077 seconds 
+  Import took 0.020153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.413663 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHill_01.prefab
+  artifactKey: Guid(96e519b72156c0f49b202e1487e1f29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHill_01.prefab using Guid(96e519b72156c0f49b202e1487e1f29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e314ce8015b05b5c52631746699d82') in 0.031646 seconds 
+  Import took 0.037640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.010165 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHill_02.prefab
+  artifactKey: Guid(ca01272e797ed22479bab57a7d9f531e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHill_02.prefab using Guid(ca01272e797ed22479bab57a7d9f531e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65733bfba8e44d597e234fb658b8822f') in 0.023246 seconds 
+  Import took 0.031844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.891997 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCurve_01.prefab
+  artifactKey: Guid(9e583c73f8f21d248be83a2fddb607f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCurve_01.prefab using Guid(9e583c73f8f21d248be83a2fddb607f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b474cf94a3ca1248bddd6a7c8ffda75') in 0.025683 seconds 
+  Import took 0.034954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.667391 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCurve_02.prefab
+  artifactKey: Guid(85b5b0f4cd0f6dd4ca6745c25884a909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCurve_02.prefab using Guid(85b5b0f4cd0f6dd4ca6745c25884a909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42a13540f965eeac8ec5915bbf086f4') in 0.021355 seconds 
+  Import took 0.032486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.741956 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevation_04.prefab
+  artifactKey: Guid(932c91eafad676f458ceccf76fe07f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevation_04.prefab using Guid(932c91eafad676f458ceccf76fe07f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6871528c9750507b84e45cf2a69bc546') in 0.024278 seconds 
+  Import took 0.035158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.720571 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevationCurve_01.prefab
+  artifactKey: Guid(bb6727c387215424b9ab4892bc2bd5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevationCurve_01.prefab using Guid(bb6727c387215424b9ab4892bc2bd5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93c86a81ad42225001519aa2b6da7ca') in 0.030917 seconds 
+  Import took 0.038678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.092887 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevation_03.prefab
+  artifactKey: Guid(d01b7c7afe949b04795fcdc39ca44f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevation_03.prefab using Guid(d01b7c7afe949b04795fcdc39ca44f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4856fbbda7b1c90f92584e7c022e03c5') in 0.025206 seconds 
+  Import took 0.037245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.628886 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevation_02.prefab
+  artifactKey: Guid(1fe2594998f51c84fa09cc4feb9aeac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevation_02.prefab using Guid(1fe2594998f51c84fa09cc4feb9aeac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd64f6c45dc30c8c06ae39759ce2ad23c') in 0.030784 seconds 
+  Import took 0.038830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.432246 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevation_01.prefab
+  artifactKey: Guid(3cbaab76e5cd5444aa6084fbcd2bdceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevation_01.prefab using Guid(3cbaab76e5cd5444aa6084fbcd2bdceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693e5d8f4f53790b23ecfe1eda6ad709') in 0.018082 seconds 
+  Import took 0.024107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 309.027385 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachStraight_02.prefab
+  artifactKey: Guid(04ad089b9bbd69e4fa4493b5f270d19c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachStraight_02.prefab using Guid(04ad089b9bbd69e4fa4493b5f270d19c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3caf241fe5753618cfd8417dafe4be3') in 0.044595 seconds 
+  Import took 0.056154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.681878 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCurve_03.prefab
+  artifactKey: Guid(7b9d94c65f50d074cb990c1766a15125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCurve_03.prefab using Guid(7b9d94c65f50d074cb990c1766a15125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f4614f4b42f0dff5cf64e107988380') in 0.025196 seconds 
+  Import took 0.034733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.734051 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCurve_04.prefab
+  artifactKey: Guid(52dec7e68465e374abbd0adbd94b1fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCurve_04.prefab using Guid(52dec7e68465e374abbd0adbd94b1fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21fc3205389eda0d0765a7edc4f74836') in 0.017946 seconds 
+  Import took 0.023534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.939566 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCrossing_02.prefab
+  artifactKey: Guid(1988deb06fc7d5c40859be7af1ce1370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachCrossing_02.prefab using Guid(1988deb06fc7d5c40859be7af1ce1370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2a652c19fa0857063eca83148a0ec0') in 0.033565 seconds 
+  Import took 0.039685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.452686 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevationCurve_02.prefab
+  artifactKey: Guid(395e49b5aa696974980eff684bd93dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevationCurve_02.prefab using Guid(395e49b5aa696974980eff684bd93dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e023ae3da621d4af6883aa27c99ee252') in 0.017711 seconds 
+  Import took 0.026239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.761270 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevationCurve_03.prefab
+  artifactKey: Guid(bfcc89857bc3a754da3149010d6e09ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevationCurve_03.prefab using Guid(bfcc89857bc3a754da3149010d6e09ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796cf5b44a48a25c3e469d724ce7a5cb') in 0.039844 seconds 
+  Import took 0.044306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.147849 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevationCurve_04.prefab
+  artifactKey: Guid(b8015abe5dea84147ba1ba5d1b090bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachElevationCurve_04.prefab using Guid(b8015abe5dea84147ba1ba5d1b090bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbabf843df99ef3774ec65a3b61a4520') in 0.018723 seconds 
+  Import took 0.029020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.289598 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHill_04.prefab
+  artifactKey: Guid(54378a371b3cfaa45a8a7fe7b6bf27b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHill_04.prefab using Guid(54378a371b3cfaa45a8a7fe7b6bf27b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e96d494031dcc3fbf54e6212f3528d') in 0.019900 seconds 
+  Import took 0.029602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.670426 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHill_05.prefab
+  artifactKey: Guid(c3a39a773757957479c19de7d288186b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHill_05.prefab using Guid(c3a39a773757957479c19de7d288186b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c016c03b3fa7a48b0fa3d37c3508fd6') in 0.020275 seconds 
+  Import took 0.025810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.006485 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHill_06.prefab
+  artifactKey: Guid(672e4a25a2adb4e4bb76e5ab34a4658a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHill_06.prefab using Guid(672e4a25a2adb4e4bb76e5ab34a4658a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebab620ac627f2ef6f95b6330f4b1346') in 0.029864 seconds 
+  Import took 0.035914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.416586 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHillCurve_01.prefab
+  artifactKey: Guid(856d712b47b6bb745a5aabbe8ce0dc45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHillCurve_01.prefab using Guid(856d712b47b6bb745a5aabbe8ce0dc45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d510e453f232358bd7c3d8e52cc476') in 0.016405 seconds 
+  Import took 0.026682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.550984 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_01.prefab
+  artifactKey: Guid(976f9222ad22dbe4b87325667c6f3f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_01.prefab using Guid(976f9222ad22dbe4b87325667c6f3f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b230db23c2f21c81679af6e74babd326') in 0.019917 seconds 
+  Import took 0.024534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.300746 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_01.prefab
+  artifactKey: Guid(62c8e5b1e3e37b149a88e4108ebaf709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_01.prefab using Guid(62c8e5b1e3e37b149a88e4108ebaf709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f4a6e50a3e8825c064835b5d44f87e1') in 0.024287 seconds 
+  Import took 0.031092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.270999 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_02.prefab
+  artifactKey: Guid(7d309558ef50c0241b734e208c3807b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_02.prefab using Guid(7d309558ef50c0241b734e208c3807b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '639061363cfecdffa5bccda22c5a8851') in 0.027590 seconds 
+  Import took 0.036084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.624756 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_03.prefab
+  artifactKey: Guid(660046d84c8ba3f4f97ae7b3a1124f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_03.prefab using Guid(660046d84c8ba3f4f97ae7b3a1124f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82657ba2007d8e01e2086f69a8612eb8') in 0.029159 seconds 
+  Import took 0.038434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.659153 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_05.prefab
+  artifactKey: Guid(8c87accc9ab46ac4a868ff1d801c0718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_05.prefab using Guid(8c87accc9ab46ac4a868ff1d801c0718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc39cb90b2bd36d764e755690dcc367') in 0.018786 seconds 
+  Import took 0.026810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.592985 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_07.prefab
+  artifactKey: Guid(20d9978e1c4592d488ed1078c396dc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_07.prefab using Guid(20d9978e1c4592d488ed1078c396dc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c1613716f60f26d43d1ef933ac7b31') in 0.038457 seconds 
+  Import took 0.043376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.615463 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_08.prefab
+  artifactKey: Guid(c38bf120d705012488f3a12e7072bb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_08.prefab using Guid(c38bf120d705012488f3a12e7072bb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e8080f687a4589237a99da8094151d') in 0.021327 seconds 
+  Import took 0.030949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.419356 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_06.prefab
+  artifactKey: Guid(ad0eadceeb4aec047bdf888c6a6cc93f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_06.prefab using Guid(ad0eadceeb4aec047bdf888c6a6cc93f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5aff6f43615c04d5c4f9412522b1743') in 0.015634 seconds 
+  Import took 0.021216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.230367 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_04.prefab
+  artifactKey: Guid(742c500e4989dc045b4b7128162e50ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachZigzag_04.prefab using Guid(742c500e4989dc045b4b7128162e50ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884e0f72a9a211b10aad817288e777b7') in 0.027422 seconds 
+  Import took 0.033919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.373049 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_10.prefab
+  artifactKey: Guid(f10429589faf90440bef3b775c7622c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_10.prefab using Guid(f10429589faf90440bef3b775c7622c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a61eee2dbbbfac136e1320020dc4f4') in 0.047668 seconds 
+  Import took 0.058147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.282626 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_11.prefab
+  artifactKey: Guid(b742dc9636b96f846ac4bb8bee48d3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_11.prefab using Guid(b742dc9636b96f846ac4bb8bee48d3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653297f34aaba619c432f59087022313') in 0.044297 seconds 
+  Import took 0.048283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.650744 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_09.prefab
+  artifactKey: Guid(72807f90c8d481243babed7e538d1a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_09.prefab using Guid(72807f90c8d481243babed7e538d1a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be0d2a57b98fddc813468f870c7a98f') in 0.017030 seconds 
+  Import took 0.021937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.192195 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_08.prefab
+  artifactKey: Guid(f8bf02cb9cca9fd4d886905748b5c0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_08.prefab using Guid(f8bf02cb9cca9fd4d886905748b5c0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07b8cfb5e3a0bb9bdace50a89c1195fe') in 0.018905 seconds 
+  Import took 0.026897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.796685 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_07.prefab
+  artifactKey: Guid(1431b42e85ab88046ac232bfc8460c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_07.prefab using Guid(1431b42e85ab88046ac232bfc8460c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5312731cc596cc2245c1758ff9130d') in 0.059159 seconds 
+  Import took 0.064764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.202339 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_06.prefab
+  artifactKey: Guid(9cd854adfa7dcd1418ade7ab9efba7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_06.prefab using Guid(9cd854adfa7dcd1418ade7ab9efba7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6034cb93036f6e0b109086585b3bb99b') in 0.017307 seconds 
+  Import took 0.023965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.183119 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_05.prefab
+  artifactKey: Guid(689ff11ee4c410640afedcfae32f81b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_05.prefab using Guid(689ff11ee4c410640afedcfae32f81b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8779ac7ffa59e536373aef138f29244') in 0.030961 seconds 
+  Import took 0.039680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.299270 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_03.prefab
+  artifactKey: Guid(abe17d15a302e1e47bd19a0fa1003d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_03.prefab using Guid(abe17d15a302e1e47bd19a0fa1003d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3577a141eb8e276d06ebada6da35ce04') in 0.027042 seconds 
+  Import took 0.034383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.278877 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_02.prefab
+  artifactKey: Guid(20a6204bb684fd34792c03e5e9cb069c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_TracksBeach/pref_TrackBeachHole_02.prefab using Guid(20a6204bb684fd34792c03e5e9cb069c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '950f3824932a96c3d880678bc66e12a2') in 0.019321 seconds 
+  Import took 0.028395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.931868 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_Flags
+  artifactKey: Guid(461920793edbd4b899a3ac88a09c851d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_Flags using Guid(461920793edbd4b899a3ac88a09c851d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e196cf5f0ec1240dee1cf646105783') in 0.001456 seconds 
+  Import took 0.006057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.509748 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_Flags/pref_Flag_01.prefab
+  artifactKey: Guid(0274034be7faa044d98151f0e757656c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_Flags/pref_Flag_01.prefab using Guid(0274034be7faa044d98151f0e757656c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7ee710b3020748a1c1404a162f355d1') in 0.021421 seconds 
+  Import took 0.029181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.982424 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_Flags/pref_Flag_02.prefab
+  artifactKey: Guid(65ec9b90700d36f4aa06684a0cd2e846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_Flags/pref_Flag_02.prefab using Guid(65ec9b90700d36f4aa06684a0cd2e846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7527ff322e900226a8baa067833bce06') in 0.037130 seconds 
+  Import took 0.044940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.531024 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_Flags/pref_Flag_03.prefab
+  artifactKey: Guid(d645ce5fe35ad204d99fa4c05dc3a388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_Flags/pref_Flag_03.prefab using Guid(d645ce5fe35ad204d99fa4c05dc3a388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc4648f0f1c4c2f2a0b404066ccd62d') in 0.021317 seconds 
+  Import took 0.030833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.435265 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach
+  artifactKey: Guid(9a7b3b5dbfc50480eb5315f615b1a412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach using Guid(9a7b3b5dbfc50480eb5315f615b1a412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227c5eeef2b2237f074fdc6aed4e21a5') in 0.001296 seconds 
+  Import took 0.004912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.804351 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachArch_01.prefab
+  artifactKey: Guid(d9af8a694267da541b3d92b97dbc563c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachArch_01.prefab using Guid(d9af8a694267da541b3d92b97dbc563c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3331ca105cb8620756a16e8ef022e0b3') in 0.018297 seconds 
+  Import took 0.023018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.586301 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachArch_02.prefab
+  artifactKey: Guid(24c421fe928142d48ae3b56f282212aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachArch_02.prefab using Guid(24c421fe928142d48ae3b56f282212aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68a469188a02930a77905bea2460198') in 0.029415 seconds 
+  Import took 0.038380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.319931 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachBox.prefab
+  artifactKey: Guid(eedfc38022d5c2b448da45282081269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachBox.prefab using Guid(eedfc38022d5c2b448da45282081269d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964921799dff09f0ce3e36a1389411cf') in 0.016618 seconds 
+  Import took 0.022363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.629691 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachHill.prefab
+  artifactKey: Guid(e1b891415b1ce794898a7a25cb18f53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachHill.prefab using Guid(e1b891415b1ce794898a7a25cb18f53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a22071a0791ddfb6af2ff5ac4af92f9') in 0.025510 seconds 
+  Import took 0.037252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.499907 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachLooping.prefab
+  artifactKey: Guid(39708490fc0cd6c4b8ca1e980da300f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachLooping.prefab using Guid(39708490fc0cd6c4b8ca1e980da300f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851af23ba84dd8e14e082de8ba0f8b38') in 0.017801 seconds 
+  Import took 0.025084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.426539 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTriangleBig.prefab
+  artifactKey: Guid(6ad17ccb0188da2499988ef91d74ba26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTriangleBig.prefab using Guid(6ad17ccb0188da2499988ef91d74ba26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467293d27db2678c507f761fc3a0df4e') in 0.026986 seconds 
+  Import took 0.035123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.801130 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTriangleCornerBig.prefab
+  artifactKey: Guid(f75fc0a4e5469db489353db9790d7baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTriangleCornerBig.prefab using Guid(f75fc0a4e5469db489353db9790d7baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41f89bf0cfbb7eb7bf60e2375418322c') in 0.038630 seconds 
+  Import took 0.046931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.595632 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTriangleCornerSmall.prefab
+  artifactKey: Guid(3fe253106effbbb4a9c86010823b322b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTriangleCornerSmall.prefab using Guid(3fe253106effbbb4a9c86010823b322b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f45064b9f0f5e20426100c084d15e11') in 0.030000 seconds 
+  Import took 0.042543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.363148 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTriangleSmall.prefab
+  artifactKey: Guid(06eb9f0b5e8d33849963841ff13e4c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTriangleSmall.prefab using Guid(06eb9f0b5e8d33849963841ff13e4c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b9dbf3c11348d1d55a04fcb86586ca6') in 0.022277 seconds 
+  Import took 0.032990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.004121 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTunnel_01.prefab
+  artifactKey: Guid(d76f81a00ced4154d8993b99a9167896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTunnel_01.prefab using Guid(d76f81a00ced4154d8993b99a9167896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f5dc3c14f3eae72ac3d734091fbd63') in 0.023848 seconds 
+  Import took 0.030274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.399460 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTunnel_02.prefab
+  artifactKey: Guid(78ed5271ec140c24c806a39fafdeaebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_ObstaclesBeach/pref_ObstacleBeachTunnel_02.prefab using Guid(78ed5271ec140c24c806a39fafdeaebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d6faa9f12095d44f138bb46a2f5e3cd') in 0.023064 seconds 
+  Import took 0.031935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 102.689050 seconds.
+  path: Assets/Minigolf Graphics Pack/Prefabs/Prefabs_Golfballs/pref_Golfball_01.prefab
+  artifactKey: Guid(ce71423c862a85c44a6d1ac43bdcadf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Minigolf Graphics Pack/Prefabs/Prefabs_Golfballs/pref_Golfball_01.prefab using Guid(ce71423c862a85c44a6d1ac43bdcadf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25247647906eaeb3a117321942bb743e') in 0.019439 seconds 
+  Import took 0.023997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 216.579434 seconds.
+  path: Assets/Forest Pack/Models/Plants/Mushroom001.fbx
+  artifactKey: Guid(a7d47b111203429429d8710317d23109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Mushroom001.fbx using Guid(a7d47b111203429429d8710317d23109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ebd8c28dda6b24d5805c7abf2d5976') in 0.419013 seconds 
+  Import took 0.428970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.761497 seconds.
+  path: Assets/Forest Pack/Models/Plants/Mushroom007.fbx
+  artifactKey: Guid(4ed3104001489084cbbc7ca791411a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Mushroom007.fbx using Guid(4ed3104001489084cbbc7ca791411a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8551cc95bdbfb02152aa94d88c7ff52') in 0.096408 seconds 
+  Import took 0.100741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.769077 seconds.
+  path: Assets/Forest Pack/Models/Plants/Mushroom005.fbx
+  artifactKey: Guid(8fb43deb9daaca14b8f06644105788a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Mushroom005.fbx using Guid(8fb43deb9daaca14b8f06644105788a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e61ca8ba4271908fdb7e85580cc26b41') in 0.092772 seconds 
+  Import took 0.111532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.994296 seconds.
+  path: Assets/Forest Pack/Models/Plants/Mushroom002.fbx
+  artifactKey: Guid(4fbe66bcb2bb09e4d8eb5d1f68b0f649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Mushroom002.fbx using Guid(4fbe66bcb2bb09e4d8eb5d1f68b0f649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f51ad36f027f650a715ca8c6740ac0e7') in 0.084087 seconds 
+  Import took 0.092995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.952785 seconds.
+  path: Assets/Forest Pack/Models/Plants/Mushroom003.fbx
+  artifactKey: Guid(0c6c8b480ce8d8247b3d39cc98d473fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Mushroom003.fbx using Guid(0c6c8b480ce8d8247b3d39cc98d473fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e05ef7b4f8e6b2c187a5fb8ae69732') in 0.105495 seconds 
+  Import took 0.111695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.503819 seconds.
+  path: Assets/Forest Pack/Models/Plants/Mushroom004.fbx
+  artifactKey: Guid(d99bae983e4218641a286ea702a4105e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Mushroom004.fbx using Guid(d99bae983e4218641a286ea702a4105e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21fc9b4a7e08cfd0d5d78c8e32b8ff70') in 0.066453 seconds 
+  Import took 0.083661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.054263 seconds.
+  path: Assets/Forest Pack/Models/Plants/Mushroom006.fbx
+  artifactKey: Guid(37e59fcb9f566f543a68c97841dee84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Mushroom006.fbx using Guid(37e59fcb9f566f543a68c97841dee84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884f6608baac8dd769e9c0e217fb9741') in 0.109916 seconds 
+  Import took 0.115415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.351639 seconds.
+  path: Assets/Forest Pack/Models/Plants/Tree001_V1.fbx
+  artifactKey: Guid(936de53dfc99e1a4eb0cb5960f3be4e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Tree001_V1.fbx using Guid(936de53dfc99e1a4eb0cb5960f3be4e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e49d9527d01abfdae76fcf0f0633b5') in 0.068043 seconds 
+  Import took 0.098632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.299149 seconds.
+  path: Assets/Forest Pack/Models/Plants/Tree001_V2.fbx
+  artifactKey: Guid(32dcd0540eb8d4843a913c1b9150c63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Tree001_V2.fbx using Guid(32dcd0540eb8d4843a913c1b9150c63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8b71432efc788417d261ec4468068f') in 0.074422 seconds 
+  Import took 0.084746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.486253 seconds.
+  path: Assets/Forest Pack/Models/Plants/Tree002_V1.fbx
+  artifactKey: Guid(995b21478f45b30499633b57aa889d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Tree002_V1.fbx using Guid(995b21478f45b30499633b57aa889d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c2d9ad04affb2041183d10546b8e251') in 0.035659 seconds 
+  Import took 0.040237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.904143 seconds.
+  path: Assets/Forest Pack/Models/Plants/Plant002_V1.fbx
+  artifactKey: Guid(f2b0dfca5f6191542b7f738930142fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Plants/Plant002_V1.fbx using Guid(f2b0dfca5f6191542b7f738930142fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd045d618d9894d87c4d6a7ab40bdaa2') in 0.045555 seconds 
+  Import took 0.050104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.571596 seconds.
+  path: Assets/Forest Pack/Models/Stones
+  artifactKey: Guid(7b47a1775534ab0498a016a1d8b322cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones using Guid(7b47a1775534ab0498a016a1d8b322cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc803b729bbc8ab969dce857f57b4c2') in 0.002493 seconds 
+  Import took 0.008662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.584883 seconds.
+  path: Assets/Forest Pack/Models/Stones/Stone001.fbx
+  artifactKey: Guid(90b7ea9fd67e9f34097c78dc03203784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones/Stone001.fbx using Guid(90b7ea9fd67e9f34097c78dc03203784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0820d041190e250bd28538b4df41f80b') in 0.057967 seconds 
+  Import took 0.068703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.578734 seconds.
+  path: Assets/Forest Pack/Models/Stones/Stone002.fbx
+  artifactKey: Guid(aa5327bca3b963940b0a5883770f7276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones/Stone002.fbx using Guid(aa5327bca3b963940b0a5883770f7276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '483453351447e8d090baaa012a0c24b4') in 0.063077 seconds 
+  Import took 0.080322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.634397 seconds.
+  path: Assets/Forest Pack/Models/Stones/Stone003.fbx
+  artifactKey: Guid(75aaa7a409827f041be6545932d50b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones/Stone003.fbx using Guid(75aaa7a409827f041be6545932d50b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad276aa76344968336d2e8d283365fd') in 0.066136 seconds 
+  Import took 0.075942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.541757 seconds.
+  path: Assets/Forest Pack/Models/Stones/Stone004.fbx
+  artifactKey: Guid(ac91f6699edff5449b2523f267198223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones/Stone004.fbx using Guid(ac91f6699edff5449b2523f267198223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9fffcee55ecee6e02ebd0f44604f2e') in 0.071801 seconds 
+  Import took 0.079530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.495169 seconds.
+  path: Assets/Forest Pack/Models/Stones/Stone005.fbx
+  artifactKey: Guid(a06c27fd9a1543e44af377356ad059f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones/Stone005.fbx using Guid(a06c27fd9a1543e44af377356ad059f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f6ac192b906aabe30c3454f73c6393') in 0.054791 seconds 
+  Import took 0.060285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.519283 seconds.
+  path: Assets/Forest Pack/Models/Stones/Stone006.fbx
+  artifactKey: Guid(dc8c4e789eaf62f44a0103f64095d242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones/Stone006.fbx using Guid(dc8c4e789eaf62f44a0103f64095d242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69182fa848847adf5520cabaffaf7573') in 0.050933 seconds 
+  Import took 0.062439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.820497 seconds.
+  path: Assets/Forest Pack/Models/Stones/Stone007.fbx
+  artifactKey: Guid(f672d0b4612d1f048852522ebde55078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones/Stone007.fbx using Guid(f672d0b4612d1f048852522ebde55078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b13411c149447ed8f20436e7d670077') in 0.053503 seconds 
+  Import took 0.057993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.337139 seconds.
+  path: Assets/Forest Pack/Models/Stones/Stone008.fbx
+  artifactKey: Guid(6187c2c7d947dbf41a2abd1a5e81ad74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones/Stone008.fbx using Guid(6187c2c7d947dbf41a2abd1a5e81ad74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac3a7d1722d8c1be42b21dc91badb54') in 0.064401 seconds 
+  Import took 0.068547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.343745 seconds.
+  path: Assets/Forest Pack/Models/Stones/Stone009.fbx
+  artifactKey: Guid(391fb19edefced6488c69ad4ab602749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones/Stone009.fbx using Guid(391fb19edefced6488c69ad4ab602749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a66709eabe4dd9380680030cc68c22a') in 0.058151 seconds 
+  Import took 0.062942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.309029 seconds.
+  path: Assets/Forest Pack/Models/Stones/Stone010.fbx
+  artifactKey: Guid(8d648184687185941af9f468f8cfaed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Forest Pack/Models/Stones/Stone010.fbx using Guid(8d648184687185941af9f468f8cfaed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8de3341686b37087968f0e92c98b2b') in 0.121573 seconds 
+  Import took 0.133129 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012415 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.441 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1442ms)
+		BeginReloadAssembly (283ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (116ms)
+		EndReloadAssembly (1084ms)
+			LoadAssemblies (194ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (388ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (380ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (112ms)
+				ProcessInitializeOnLoadAttributes (243ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1497 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.9 MB.
+System memory in use after: 200.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2028.
+Total: 3.609052 ms (FindLiveObjects: 0.185688 ms CreateObjectMapping: 0.060166 ms MarkObjects: 2.856429 ms  DeleteObjects: 0.505809 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2491.300582 seconds.
+  path: Assets/Resources/PreFabs/AggerGolfHul2.prefab
+  artifactKey: Guid(ec2f036350f36461daa774742409bcd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/PreFabs/AggerGolfHul2.prefab using Guid(ec2f036350f36461daa774742409bcd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc55f68446fc0868c9b1dc1ed4e837dc') in 0.234216 seconds 
+  Import took 0.257795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.348344 seconds.
+  path: Assets/Resources/PreFabs/AggerJrPrefabs.prefab
+  artifactKey: Guid(e5c24ec43c7df449ca9735bbbd62d56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/PreFabs/AggerJrPrefabs.prefab using Guid(e5c24ec43c7df449ca9735bbbd62d56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f336624a3492364beda3c6f85270a87') in 0.101056 seconds 
+  Import took 0.109719 seconds .
+
